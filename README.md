@@ -6,8 +6,7 @@ Japanese highschool student, Grade 3, Male, 17yearsold)
 * 国際イノベーションコンテスト 国内予選1位通過  
 タイトル：MEMSデバイスを用いた猫背矯正装置の開発
 
-
-1st🥇prize in International innovation competition (iCAN'22) JAPAN  
+* 1st🥇prize in International innovation competition (iCAN'22) JAPAN  
 Title: Development of a Hunchback Correction Device Using MEMS Devices
 
 ## 所属
