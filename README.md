@@ -1,6 +1,6 @@
 # about: ほえい
 日本の高校３年生, 男, 17歳  
-Japanese highschool student, Grade 3, Male, 17yearsold)
+Japanese highschool student, Grade 3, Male, 17 years old)
 
 ## 受賞歴 Achivement
 * 国際イノベーションコンテスト 国内予選1位通過  
