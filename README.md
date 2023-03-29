@@ -1,16 +1,19 @@
 # about: ほえい
-日本の高校３年生, 男, 17歳
-
+日本の高校３年生, 男, 17歳  
 Japanese highschool student, Grade 3, Male, 17yearsold)
 
-## 受賞歴
-国際イノベーションコンテスト 国内予選1位通過
+## 受賞歴 Achivement
+* 国際イノベーションコンテスト 国内予選1位通過  
 タイトル：MEMSデバイスを用いた猫背矯正装置の開発
 
+
+1st🥇prize in International innovation competition (iCAN'22) JAPAN  
+Title: Development of a Hunchback Correction Device Using MEMS Devices
+
 ## 所属
-JASMINE 技術部
-全国科学部連合（生物）
-情報処理学会
+JASMINE 技術部  
+全国科学部連合（生物）  
+情報処理学会  
 
 ## 著作物
 全辞界（https://zenjikai.com）・・・総合ポータルサイト
